@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
         list.add(new Match("IPL 2023", "CSK","MI","250","200","CSK Won By 50 Runs"));
         list.add(new Match("IPL 2023", "CSK","MI","250","200","CSK Won By 50 Runs"));
         list.add(new Match("IPL 2023", "CSK","MI","250","200","CSK Won By 50 Runs"));
-        list.add(new Match("IPL 2023", "CSK","MI","250","200","CSK Won By 50 Runs"));
+
 
 
 
